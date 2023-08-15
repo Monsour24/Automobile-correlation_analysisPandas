@@ -1,0 +1,23 @@
+you can download data 
+
+
+I was able to provide the following solutions 
+
+1 Provide the correlation matrix
+2 Group the data by 'company', and find the index of the maximum value in 'price' for each group.
+3 Find the most expensive car company name
+4 Print All Toyota Cars details
+5 Count total cars per company according to the dataset
+6 Find each company’s Highest price car
+7 Sort all cars by Price column
+
+
+
+By applying the following steps
+
+1 Import necessary libraries
+2 Ingest the data the required CSV file
+3 Explore the data
+4 Produce the correlation Matrix
+
+
